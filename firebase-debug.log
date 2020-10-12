@@ -1,0 +1,25 @@
+[debug] [2020-10-12T11:04:23.453Z] ----------------------------------------------------------------------
+[debug] [2020-10-12T11:04:23.455Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2020-10-12T11:04:23.456Z] CLI Version:   8.12.1
+[debug] [2020-10-12T11:04:23.456Z] Platform:      linux
+[debug] [2020-10-12T11:04:23.456Z] Node Version:  v12.19.0
+[debug] [2020-10-12T11:04:23.456Z] Time:          Mon Oct 12 2020 16:34:23 GMT+0530 (India Standard Time)
+[debug] [2020-10-12T11:04:23.457Z] ----------------------------------------------------------------------
+[debug] [2020-10-12T11:04:23.457Z] 
+[debug] [2020-10-12T11:04:23.463Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-12T11:04:23.463Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/achyuth/Documents/javascript/weatherapp
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
