@@ -2,7 +2,7 @@ import React from 'react'
 import './displayWeather.css'
 
 function DisplayWeather( { temperature, description, location, region, country, wind_speed, pressure, precip, humidity, img} ) {
-    console.log("weather in display weather ", region, country);
+    // console.log("weather in display weather ", region, country);
     return (
         <div>
             <div className="user-weather">
