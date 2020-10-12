@@ -82,7 +82,11 @@
   }
 }
 
-
+@media(max-width: 990px){
+  .weather__app{
+    flex-direction: column;
+  }
+}
 
 
 
